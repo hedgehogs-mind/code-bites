@@ -1,6 +1,6 @@
 # 📘 LinkedIn post
 
-# Text
+# Text 🗣
 
 Hey TypeScript engineers! 👋 Supercharge your environment variables by using Zod 💎!
 
@@ -30,19 +30,5 @@ Do you want to have fun? 🤗 Check out the code example on GitHub. The link is 
 
 #typescript #javascript #zod #trpc #t3stack #trpc #softwareengineering #validation #typesafety #environment #variables
 
-# Slideshow
-
-## Slide 1
-![Slide 1](Slides/Slides.001.jpeg)
-
-## Slide 2
-![Slide 2](Slides/Slides.002.jpeg)
-
-## Slide 3
-![Slide 3](Slides/Slides.003.jpeg)
-
-## Slide 4
-![Slide 4](Slides/Slides.004.jpeg)
-
-## Slide 5
-![Slide 5](Slides/Slides.005.jpeg)
+# Slides 📑
+Here you go: [Slides PDF 🔗](Slides.pdf)
