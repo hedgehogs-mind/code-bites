@@ -66,6 +66,5 @@ export const me: SoftwareEngineer = {
 ```
 
 ## Contact me 👂
-📬 Email: [peter@hedgehogs-mind.com](mailto:peter@hedgehogs-mind.com)
-ℹ️
-LinkedIn: [https://www.linkedin.com/in/peter-kuhmann-40b923224/](https://www.linkedin.com/in/peter-kuhmann-40b923224/)
+- 📬 Email: [peter@hedgehogs-mind.com](mailto:peter@hedgehogs-mind.com)
+- ℹ️ LinkedIn: [https://www.linkedin.com/in/peter-kuhmann-40b923224/](https://www.linkedin.com/in/peter-kuhmann-40b923224/)
