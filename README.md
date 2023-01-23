@@ -10,7 +10,7 @@ ___
 
 > _"I want to share healthy snacks with software developers! ☺️"_
 
-Creating and sharing the bites is one of my New Year's resolution for 2023 🎆
+Creating and sharing these bites is one of my New Year's resolution for 2023 🎆
 
 # Table of contents
 
