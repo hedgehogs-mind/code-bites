@@ -28,9 +28,9 @@ Creating and sharing these bites is one of my New Year's resolution for 2023 �
 
 ## 2023 🥒
 
-| Nr. | Title                      | Your benefits                                                        | Link                                       | LinkedIn |
-|-----|----------------------------|----------------------------------------------------------------------|--------------------------------------------|----------|
-| 001 | ENV validation with zod 💎 | Type safe access and validation of all your environment variables 🔑 | [➡️](2023/001-env-var-validation-with-zod) |          |
+| Nr. | Title                      | Your benefits                                                        | Link                                            | LinkedIn                                                                                                                                                                         |
+|-----|----------------------------|----------------------------------------------------------------------|-------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 001 | ENV validation with zod 💎 | Type safe access and validation of all your environment variables 🔑 | [Link ➡️](2023/001-env-var-validation-with-zod) | [Link ➡️](https://www.linkedin.com/posts/peter-kuhmann-40b923224_learn-validate-type-safe-env-vars-activity-7023362043223154688-TQ9-?utm_source=share&utm_medium=member_desktop) |
 
 # About me 🙋‍♂️
 
@@ -49,22 +49,24 @@ export const me: SoftwareEngineer = {
     nickname: "Pierre",
     country: "Germany",
     town: "Lübeck",
-    
+
     // 🛠
     languages: ["en", "de"],
     programmingLanguages: ["Java", "JavaScript", "TypeScript", "PHP", "python"],
     backendTools: ["Spring Boot", "Micronaut", "Hibernate", "Node.js", "Express", "Nest.js", "Prisma", "TypeORM"],
     frontendTools: ["HTML", "CSS", "React 18", "Vue 3", "Tailwind CSS", "styled-components"],
-    
+
     // 🌱
     ide: ["JetBrains IDEA", "Jetbrains WebStorm"],
     os: ["macOS", "debian"],
-    
+
     // 🤹‍♂️
     hobbies: ["cooking", "analog photography"]
 }
 ```
 
 ## Contact me 👂
+
 - 📬 Email: [peter@hedgehogs-mind.com](mailto:peter@hedgehogs-mind.com)
-- ℹ️ LinkedIn: [https://www.linkedin.com/in/peter-kuhmann-40b923224/](https://www.linkedin.com/in/peter-kuhmann-40b923224/)
+- ℹ️
+  LinkedIn: [https://www.linkedin.com/in/peter-kuhmann-40b923224/](https://www.linkedin.com/in/peter-kuhmann-40b923224/)
